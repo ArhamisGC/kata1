@@ -8,4 +8,4 @@ public class main {
         person arhamis = new person("Arhamis",birth);
         System.out.println(arhamis.getName() + " tiene "+ arhamis.getAge()+ " años");
     }
-}bygyg
+}bygygh
